@@ -1,4 +1,4 @@
-Log Analyzer README
+# Log Analyzer README
 This repository contains two Python scripts: getlogs.py and log-monitoring.py. These scripts are designed to help with generating and monitoring log files, respectively.
 
 Prerequisites
