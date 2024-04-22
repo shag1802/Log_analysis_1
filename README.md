@@ -13,6 +13,8 @@ Run the script using the following command:
 
 ### Copy code
 python3 getlogs.py
+
+
 The script will continuously generate log messages in the test.log file .
 
 ## log-monitoring.py
