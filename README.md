@@ -26,3 +26,5 @@ python log-monitoring.py /path/to/your/log/file.log
 
 Follow the prompts to enter specific keywords to search for. Separate multiple keywords with commas.
 The script will continuously monitor the log file and display detailed summary reports in the console in real-time.
+
+### Note : To stop either of code in getlogs.py or log-monitoring.py, please press CTRL + c
